@@ -1,0 +1,12 @@
+ .dashboard-item {
+display: flex;
+float: left;
+list-style: none;
+}
+
+.dashboard-item svg {
+width: 25px;
+height: 25px;
+margin-right: 14px;
+}
+
